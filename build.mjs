@@ -234,8 +234,8 @@ page({
   <h2>Oyun içinden (en hızlı yol)</h2>
   <ol class="steps">
     <li>Zinglo Words'ü aç ve <strong>Ayarlar</strong> ekranına git.</li>
-    <li><strong>"İlerlememi sil"</strong> seçeneğine dokun.</li>
-    <li>Onayla. Cihazındaki ilerleme ve sunucudaki anonim hesabın ile yedeğin silinir.</li>
+    <li><strong>"Yasal ve destek"</strong> bölümünde <strong>"Hesabımı ve verilerimi sil"</strong> seçeneğine dokun.</li>
+    <li><strong>"Kalıcı olarak sil"</strong> ile onayla. Sunucudaki anonim hesabın ve yedeğin hemen, cihazındaki ilerleme de aynı anda silinir. Bu adım için internet bağlantısı gerekir.</li>
   </ol>
 
   <h2>E-postayla</h2>
@@ -428,8 +428,8 @@ page({
   <h2>In the Game (fastest)</h2>
   <ol class="steps">
     <li>Open Zinglo Words and go to <strong>Settings</strong>.</li>
-    <li>Tap <strong>“Delete my progress”</strong>.</li>
-    <li>Confirm. Your progress on the device and your anonymous account and backup on our servers are deleted.</li>
+    <li>Under <strong>“Legal &amp; support”</strong>, tap <strong>“Delete account &amp; data”</strong>.</li>
+    <li>Confirm with <strong>“Delete permanently”</strong>. Your anonymous account and backup on our servers are deleted immediately, together with the progress on your device. An internet connection is required.</li>
   </ol>
 
   <h2>By email</h2>
